@@ -1,6 +1,6 @@
-# ✅ Deployment To-Do List for `dream_storybook`
+# Deployment To-Do List for `dream_storybook`
 
-## ✅ Completed Tasks
+## Completed Tasks
 - [x] Opened project in Windsurf IDE
 - [x] Opened Source Control panel
 - [x] Initialized Git repository via GUI
@@ -10,8 +10,9 @@
 - [x] Created GitHub repository (`dream_storybook`)
 - [x] Connected local repo to remote via GUI
 - [x] Published the `main` branch to GitHub
+- [x] Step 5: Enabled GitHub Pages from the repository settings
+- [x] Step 6: Verified the live site URL and test all images and scripts
+- [x] Step 7: Troubleshot any deployment issues (if needed)
 
-## 🔜 Remaining Tasks
-- [ ] Step 5: Enable GitHub Pages from the repository settings
-- [ ] Step 6: Verify the live site URL and test all images and scripts
-- [ ] Step 7: Troubleshoot any deployment issues (if needed)
+## Remaining Tasks
+- [ ] No remaining tasks - deployment complete!
